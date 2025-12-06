@@ -4,10 +4,7 @@
 
 **Append-only Deterministic Zero-copy Database**
 
-[![Crates.io](https://img.shields.io/crates/v/adzdb.svg)](https://crates.io/crates/adzdb)
-[![Documentation](https://docs.rs/adzdb/badge.svg)](https://docs.rs/adzdb)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Rust](https://img.shields.io/badge/rust-1.70%2B-orange.svg)](https://www.rust-lang.org)
+
 
 *A specialized storage engine for blockchain data, achieving >1900x energy asymmetry for Proof-of-Useful-Work consensus*
 
